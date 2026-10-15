@@ -214,9 +214,9 @@ Arabic step-by-step guide to updating the age on a Discord account through Disco
 | Project | Year | Notes |
 |---|---|---|
 | 🧩 [SHoNgPuzzle](https://github.com/1SHoNgxBoNg/SHoNgPuzzle) | 2026 | Riddle → modal → role-reward easter-egg system *(archived)* |
-| 🤖 SHoNgBot (v1) | 2022–2026 | First generation of the main bot, since rebuilt as the current ecosystem *(archived, private)* |
-| 🛠️ [AdminJS](https://github.com/DevXor-Team/AdminJS) | 2023 | Built with **DevXor Team** |
-| 🔊 [discord-tts-bot](https://github.com/ahmadshkour71-projects/discord-tts-bot) | 2023 | Text-to-speech Discord bot |
+| 🤖 SHoNgBot (v1) | Earlier | First generation of the main bot, since rebuilt as the current ecosystem *(archived, private)* |
+| 🛠️ [AdminJS](https://github.com/DevXor-Team/AdminJS) | 2023 | **DevXor Team** project |
+| 🔊 [discord-tts-bot](https://github.com/ahmadshkour71-projects/discord-tts-bot) | 2023 | Text-to-speech Discord bot *(fork)* |
 
 </details>
 
