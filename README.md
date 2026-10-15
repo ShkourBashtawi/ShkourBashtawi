@@ -250,13 +250,6 @@ Arabic step-by-step guide to updating the age on a Discord account through Disco
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShkourBashtawi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&area=true&area_color=58a6ff&hide_border=true&radius=8" width="100%" />
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=ShkourBashtawi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
 
 </div>
 
