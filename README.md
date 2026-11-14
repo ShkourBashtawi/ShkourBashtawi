@@ -26,7 +26,7 @@
 ## 🧬 `whoami`
 
 ```ts
-const shkour: Engineer = {
+const shkour: Doctor = {
   location:   "Jordan 🇯🇴",
   role:       "Fullstack Engineer",
   focus:      ["Discord bots at scale", "Backend & APIs", "Real-time voice & AI apps", "RGB hardware plugins"],
