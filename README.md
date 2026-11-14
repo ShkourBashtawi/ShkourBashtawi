@@ -318,8 +318,7 @@ Arabic step-by-step guide to updating the age on a Discord account through Disco
 
 <a href="https://github.com/1SHoNgxBoNg"><img src="https://github.com/1SHoNgxBoNg.png" width="56" title="SHoNgxBoNg" /></a>&nbsp;
 <a href="https://github.com/DevXor-Team"><img src="https://github.com/DevXor-Team.png" width="56" title="DevXor Team" /></a>&nbsp;
-<a href="https://github.com/shkourbashtawi-warehouse"><img src="https://github.com/shkourbashtawi-warehouse" width="56" title="ShkourBashtawi Warehouse" /></a>
-
+<a href="https://github.com/DevXor-Team"><img src="https://github.com/shkourbashtawi-warehouse.png" width="56" title="ShkourBashtawi Warehouse" /></a>&nbsp;
 </div>
 
 ---
